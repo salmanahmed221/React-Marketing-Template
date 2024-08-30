@@ -7,7 +7,6 @@ import "swiper/css/scrollbar";
 import { SliderData } from "./sliderData/sliderData";
 
 function Hero() {
-  s;
   return (
     <section>
       <Swiper
