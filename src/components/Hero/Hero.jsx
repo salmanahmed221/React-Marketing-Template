@@ -4,7 +4,7 @@ import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
 import "swiper/css/scrollbar";
-import { SliderData } from "./sliderData/SliderData";
+import SliderData from "./sliderData/sliderData";
 
 function Hero() {
   return (
