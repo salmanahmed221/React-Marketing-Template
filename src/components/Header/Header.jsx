@@ -4,7 +4,7 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 import logo from "../../assets/Header/logo.png";
 import logowhite from "../../assets/Header/logowhite.png";
-import MobileView from "./mobileview/mobileview";
+import MobileView from "./mobileview/MobileView";
 
 function Header() {
   const [nav, setNav] = useState(true);
